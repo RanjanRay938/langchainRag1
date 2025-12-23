@@ -1,6 +1,4 @@
-"""
-LangChain Document Loaders – Single File Demo
-Author: Ranjan Ray
+
 
 This script demonstrates how to load documents using LangChain Community
 from different sources:
@@ -12,14 +10,13 @@ from different sources:
 Run this file step by step or as a whole after installing dependencies.
 """
 
-# =========================
 # REQUIRED INSTALLATIONS
-# =========================
-# Run these once in terminal or Jupyter:
-# pip install langchain-community
-# pip install pypdf
-# pip install bs4
-# pip install wikipedia
+
+Run these once in terminal or Jupyter:
+pip install langchain-community
+pip install pypdf
+ pip install bs4
+pip install wikipedia
 
 # =========================
 # IMPORTS
